@@ -20,5 +20,5 @@ end
 
 require 'net/https'
 
-cat_facts = CatFacts.new(Net::HTTP)
-p cat_facts.provide
+# cat_facts = CatFacts.new(Net::HTTP)
+# p cat_facts.provide
